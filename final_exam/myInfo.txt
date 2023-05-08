@@ -1,2 +1,7 @@
 Isabel Cevallos
+<<<<<<< HEAD
 icevallo@villanova.edu
+=======
+
+Lucas Tin
+>>>>>>> 5cf09e9ff2a63d924f4afb45fea090dd2d45243b
